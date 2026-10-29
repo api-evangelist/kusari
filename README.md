@@ -64,5 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kusari is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by unusual-ventures) and added to the network as a stub for full-pipeline profiling.
-- https://www.kusari.dev/
+Kusari provides software supply chain security solutions, offering a verified graph of every dependency shipped, built from source. Their platform enables reachability analysis, blast radius assessment, and automated fixes, integrating with existing CI pipelines and registries. Targeting complex stacks across financial services, insurance, and regulated SaaS, Kusari helps teams detect transitive CVEs, secrets, license issues, and end‑of‑life packages, delivering autonomous security reviews on pull requests.
+
+**Areas:** Company · Security · SoftwareSupplyChain · DevOps · OpenSource
+
+## Kusari on APIs.io
+
+Everything profiled for Kusari is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kusari/](https://apis.io/providers/kusari/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kusari Domain Security](https://apis.io/security/kusari/kusari-domain-security/)
+- [Kusari Vulnerability Disclosure](https://apis.io/security/kusari/kusari-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.kusari.dev/)
+- [Documentation](https://docs.kusari.cloud/)
+- [Getting started](https://www.kusari.dev/start/)
+- [API reference](https://docs.kusari.cloud/reference/)
+- [Pricing](https://www.kusari.dev/roi-calculator)
+- [Support](https://www.kusari.dev/contact)
+- [Blog](https://www.kusari.dev/blog)
+- [Security](https://www.kusari.dev/security/)
+- [Terms of service](https://www.kusari.dev/terms)
+
+## API Evangelist rating
+
+**Kin Score 22.2** — emerging · rubric 0.24.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 34.2 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kusari/](https://apis.io/providers/kusari/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kusari: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kusari/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
